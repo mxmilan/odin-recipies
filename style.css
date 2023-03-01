@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif, 'Times New Roman';
+
+}
+.home {
+    background-color:greenyellow;
+}
+body {
+font-size: 20px;
+}
+.ingr {
+    color: red;
+}
+.chkn,
+.ingr {
+    font-size: 17px;
+}
